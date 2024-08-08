@@ -1,4 +1,6 @@
-# Data Analytics Job Survey Analysis
+# Data Analytics Job Survey Analysis 
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-1DA1F2?logo=medium)](https://medium.com/@mahhinshahzad/data-analytics-job-survey-analysis-with-power-bi-dc7fbd7cf1a4)
+
 
 I always had a deep curiosity and interest in analyzing data related to actual Data Analyst roles, but I could never find it. There were always resources like Stack Overflow survey data and other general ones, but even the most escalated survey would be related to Data Science. So, I planned to extract proportions from multiple data sources and then start the analysis. Thankfully, I recently found out about this survey done by [Alex The Analyst](https://github.com/AlexTheAnalyst)
  , where he collected this relatively new data, and I had to take a look into it.
@@ -68,6 +70,7 @@ Here are some insights that will blow your mind, like for real:
 ## Conclusion
 
 The best feature among this is being able to filter down. With the tree map, I can trim down on the specific niche country, see the stats for the specific part rather than the whole general information. But since Power BI has made it so easy for everyone to host their dashboards, we won't be able to use that. You'll need to download the PBIX file from here and run it directly on your Power BI desktop.
+
 
 
 
